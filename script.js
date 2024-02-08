@@ -3,7 +3,6 @@ const Main = document.querySelector("#main");
 const Slider = document.querySelector("#slider")
 
 CheckBox.addEventListener("change",(e)=>{
-console.log(e)
 
 
     if(CheckBox.checked){
